@@ -9,7 +9,6 @@ const timer1 = (time) => {
     } else {
       continue;
     }
-
   }
 };
 timer1();
